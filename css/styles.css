@@ -84,7 +84,9 @@ th {
 
 td {
   font-family: FreeSerif, serif;
-  color: #444; }
+  color: #444; 
+  padding: 10px;
+  }
 
 .footnotes ol li {
   font-family: FreeSerif, serif;
